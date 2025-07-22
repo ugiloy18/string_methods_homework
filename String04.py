@@ -7,4 +7,5 @@ def main(s):
         bool: answer
     """
     
-    return
+    return str. lower()
+print('Hello World'.lower())
