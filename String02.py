@@ -7,4 +7,5 @@ def main(s):
         str: answer
     """
     
-    return
+    return str. upper()
+print('Hello world'.upper())
