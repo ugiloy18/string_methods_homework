@@ -7,4 +7,5 @@ def main(s):
         str: answer
     """
     
-    return
+    return string.index()
+print('codeschooluz'.index('e'))
