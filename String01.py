@@ -7,4 +7,5 @@ def main(s):
         str: answer
     """
     
-    return
+    return ' '.join(word.capitalize() for word in s.split())
+print("hello WORLD".capitalize())
