@@ -7,4 +7,6 @@ def main(s):
         bool: answer
     """
     
-    return
+    return str. isupper()
+print('SALOM'.isupper())
+print('SAlom'.isupper())
